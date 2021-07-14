@@ -1,4 +1,4 @@
-# e-bike-labs
+# numerical-password-input
 
 ## Project setup
 ```
